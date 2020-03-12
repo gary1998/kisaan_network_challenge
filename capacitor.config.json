@@ -1,0 +1,8 @@
+{
+  "appId": "io.ionic.starter",
+  "appName": "kisaan_network_challenge",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "build",
+  "cordova": {}
+}

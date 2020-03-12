@@ -1,0 +1,7 @@
+{
+  "name": "kisaan_network_challenge",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
