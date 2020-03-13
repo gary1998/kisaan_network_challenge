@@ -24,9 +24,9 @@ ionic serve
 
 ### Application Specs ###
 
-* **Frontend**: [Ionic React]('https://ionicframework.com/docs/react')
+* **Frontend**: [Ionic React](https://ionicframework.com/docs/react)
 * **Backend**: Javascript ES6
-* **SMS API**: [TextLocal]('https://www.textlocal.in/')
+* **SMS API**: [TextLocal](https://www.textlocal.in/)
 * **Others**: Capacitor
 
 ### Current TextLocal Account has only 10 Credits, which means only 10 SMSs can be sent. You can use your own TextLocal Account, by changing the APIKey in `constants.json` ###
