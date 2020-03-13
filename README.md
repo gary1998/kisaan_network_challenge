@@ -14,10 +14,12 @@ npm i -g json-server @ionic/cli
 
 * Run dev-server:
 ```bash
-yarn dev-server
+npm dev-server
 ```
 
 * Run application:
 ```bash
 ionic serve
 ```
+
+### You can use your own TextLocal Account, by changing the APIKey in `constants.json` ###
