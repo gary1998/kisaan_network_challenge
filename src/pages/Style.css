@@ -1,0 +1,12 @@
+ion-content ion-toolbar {
+  --background: translucent;
+}
+
+.btn {
+  color: white;
+  text-decoration: none;
+}
+
+a {
+  text-decoration: none;
+}
