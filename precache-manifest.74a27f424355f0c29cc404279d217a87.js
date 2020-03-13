@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5e6a6de160dad65c91063552362413c0",
+    "revision": "fe082df887a9499027beac23be1ee0af",
     "url": "/kisaan_network_challenge/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kisaan_network_challenge/static/css/8.1594e46e.chunk.css"
   },
   {
-    "revision": "67891e86b0c3c5d01144",
+    "revision": "288c28d21f9ddf77c444",
     "url": "/kisaan_network_challenge/static/css/main.35f1f93e.chunk.css"
   },
   {
@@ -404,8 +404,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kisaan_network_challenge/static/js/94.8e3ca77f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "67891e86b0c3c5d01144",
-    "url": "/kisaan_network_challenge/static/js/main.30103cb9.chunk.js"
+    "revision": "288c28d21f9ddf77c444",
+    "url": "/kisaan_network_challenge/static/js/main.4cea893d.chunk.js"
   },
   {
     "revision": "8d8c4071a4a33c1b2a98",

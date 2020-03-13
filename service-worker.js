@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/kisaan_network_challenge/precache-manifest.d597beb15aec5491f3b8c83c28e8129c.js"
+  "/kisaan_network_challenge/precache-manifest.74a27f424355f0c29cc404279d217a87.js"
 );
 
 self.addEventListener('message', (event) => {

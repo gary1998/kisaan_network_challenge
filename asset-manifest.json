@@ -13,8 +13,8 @@
     "static/js/5.16052177.chunk.js": "/kisaan_network_challenge/static/js/5.16052177.chunk.js",
     "static/js/5.16052177.chunk.js.map": "/kisaan_network_challenge/static/js/5.16052177.chunk.js.map",
     "main.css": "/kisaan_network_challenge/static/css/main.35f1f93e.chunk.css",
-    "main.js": "/kisaan_network_challenge/static/js/main.30103cb9.chunk.js",
-    "main.js.map": "/kisaan_network_challenge/static/js/main.30103cb9.chunk.js.map",
+    "main.js": "/kisaan_network_challenge/static/js/main.4cea893d.chunk.js",
+    "main.js.map": "/kisaan_network_challenge/static/js/main.4cea893d.chunk.js.map",
     "runtime-main.js": "/kisaan_network_challenge/static/js/runtime-main.434ced22.js",
     "runtime-main.js.map": "/kisaan_network_challenge/static/js/runtime-main.434ced22.js.map",
     "static/css/8.1594e46e.chunk.css": "/kisaan_network_challenge/static/css/8.1594e46e.chunk.css",
@@ -193,7 +193,7 @@
     "static/js/94.8e3ca77f.chunk.js": "/kisaan_network_challenge/static/js/94.8e3ca77f.chunk.js",
     "static/js/94.8e3ca77f.chunk.js.map": "/kisaan_network_challenge/static/js/94.8e3ca77f.chunk.js.map",
     "index.html": "/kisaan_network_challenge/index.html",
-    "precache-manifest.d597beb15aec5491f3b8c83c28e8129c.js": "/kisaan_network_challenge/precache-manifest.d597beb15aec5491f3b8c83c28e8129c.js",
+    "precache-manifest.74a27f424355f0c29cc404279d217a87.js": "/kisaan_network_challenge/precache-manifest.74a27f424355f0c29cc404279d217a87.js",
     "service-worker.js": "/kisaan_network_challenge/service-worker.js",
     "static/css/8.1594e46e.chunk.css.map": "/kisaan_network_challenge/static/css/8.1594e46e.chunk.css.map",
     "static/css/main.35f1f93e.chunk.css.map": "/kisaan_network_challenge/static/css/main.35f1f93e.chunk.css.map",
@@ -208,6 +208,6 @@
     "static/css/8.1594e46e.chunk.css",
     "static/js/8.9dbf9188.chunk.js",
     "static/css/main.35f1f93e.chunk.css",
-    "static/js/main.30103cb9.chunk.js"
+    "static/js/main.4cea893d.chunk.js"
   ]
 }
