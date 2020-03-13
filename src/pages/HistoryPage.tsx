@@ -10,7 +10,7 @@ const HistoryPage: React.FC = () => {
     <IonPage>
       <IonHeader>
         <IonToolbar>
-          <IonTitle>Contact List</IonTitle>
+          <IonTitle>History</IonTitle>
         </IonToolbar>
       </IonHeader>
       <IonContent>
