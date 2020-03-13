@@ -1,11 +1,4 @@
 {
-    "contacts": [
-        {"fname": "Gaurav","lname": "Goswami", "phone": "+917017925280"},
-        {"fname": "Divyanshu", "lname": "Gaur", "phone": "+918267883385"},
-        {"fname": "Eshani", "lname": "Agarwal", "phone": "+917351555518"},
-        {"fname": "Enosh", "lname": "Stephen", "phone": "+918938933917"},
-        {"fname": "Doland", "lname": "Trump", "phone": "+919090909090"}
-    ],
-    "textlocalAPIKey": "+HVmZmdNIVk-YSOHw2dZbXqTBvdlyWhBcSA9qjJkOB",
+    "textlocalAPIKey": "+HVmZmdNIVk-YSOHw2dZbXqTBvdlyWhBcSA9qjJkO",
     "textlocalSender": "TXTLCL"
 }

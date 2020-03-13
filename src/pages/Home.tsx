@@ -3,7 +3,7 @@ import { IonContent, IonHeader, IonPage, IonTitle, IonToolbar } from '@ionic/rea
 import './Style.css';
 import ContactList from '../components/ContactList';
 
-const contactList = require('../constants.json').contacts;
+const contactList = require('../db.json').contacts;
 
 const Home: React.FC = () => {
   return (

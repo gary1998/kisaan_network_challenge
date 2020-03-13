@@ -14,7 +14,7 @@ npm i -g json-server @ionic/cli
 
 * Run dev-server:
 ```bash
-npm dev-server
+npm run dev-server
 ```
 
 * Run application:
@@ -22,4 +22,11 @@ npm dev-server
 ionic serve
 ```
 
-### You can use your own TextLocal Account, by changing the APIKey in `constants.json` ###
+### Application Specs ###
+
+* Frontend: **[Ionic React]('https://ionicframework.com/docs/react')**
+* Backend: **Javascript ES6**
+* SMS API: **[TextLocal]('https://www.textlocal.in/')**
+* Others: **Capacitor**
+
+### Current TextLocal Account has only 10 Credits, which means only 10 SMSs can be sent. You can use your own TextLocal Account, by changing the APIKey in `constants.json` ###

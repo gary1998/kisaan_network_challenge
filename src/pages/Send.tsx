@@ -49,7 +49,9 @@ class Send extends React.Component<SendProps, SendState> {
                 }
             }).then(() => {
                 this.setState({showLoading: false});
-                window.location.href="/history";
+                setTimeout(() => {
+                  window.location.href = "/history";
+                }, 300);
             });
         });
     }
